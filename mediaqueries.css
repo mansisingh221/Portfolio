@@ -107,14 +107,18 @@
 
 @media screen and (max-width: 3500px){
     #contact{
-        margin-top: 12rem;
+        margin-top: 7rem;
     }
 
     #experience{
-        margin-top: 12rem;
+        margin-top: 7rem;
     }
 
     #projects{
-        margin-top: 12rem;
+        margin-top: 7rem;
+    }
+
+    footer .nav-links-container{
+        margin-top: -25rem;
     }
 }
