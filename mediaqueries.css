@@ -6,6 +6,7 @@
     .about-containers{
         flex-wrap: wrap;
     }
+  
 }
 
 
@@ -72,10 +73,7 @@
     .about-containers{
         margin-top: 0;
     }
-    footer .nav-links-container{
-        margin-top: 0rem;
-    }
-
+   
 }
 
 @media screen and (max-width: 600px){
@@ -94,10 +92,6 @@
     footer nav{
         height: fit-content;
         margin-bottom: 2rem;}
-
-    footer .nav-links-container{
-            margin-top: 0rem;
-        }
     
 
     .about-containers, .contact-info-upper-container, .btn-container{
@@ -125,8 +119,9 @@
     #projects{
         margin-top: 7rem;
     }
-
+     
     footer .nav-links-container{
-        margin-top: -15rem;
+        margin-top: -1rem;
     }
+   
 }
