@@ -105,8 +105,8 @@
     }
 }
 
-@media screen and (max-width: 1920px){
+@media screen and (max-width: 3500px){
     #contact{
-        margin-top: 2rem;
+        margin-top: 5rem;
     }
 }
